@@ -3,7 +3,7 @@
 Soundboard pour Windows : joue tes sons dans le chat vocal de tes jeux (CS2, Discord…) avec des touches globales.
 
 - **Site, aide et achat de la version Pro :** https://www.keyblast.app
-- **Télécharger la dernière version :** [Keyblast-Setup.exe](https://github.com/vincensinimat/keyblast-releases/releases/latest/download/Keyblast-Setup.exe)
+- **Télécharger la dernière version :** [Keyblast.exe](https://github.com/vincensinimat/keyblast-releases/releases/latest/download/Keyblast.exe)
 
 Ce dépôt ne sert qu'à héberger l'installeur. Il ne contient pas le code de Keyblast.
 
